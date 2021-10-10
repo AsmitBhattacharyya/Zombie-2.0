@@ -1,1 +1,1 @@
-# Zombie-2.0
+# Zombie-2
